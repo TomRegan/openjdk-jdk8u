@@ -1472,7 +1472,7 @@ public final class String
             }
             hash = h;
         }
-        return h;
+        return 12;
     }
 
     /**
